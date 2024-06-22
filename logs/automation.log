@@ -1,0 +1,201 @@
+22:12:43.402 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:12:44.078 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+22:12:44.709 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+22:12:44.729 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:12:54.912 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+22:17:47.263 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:17:47.708 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+22:17:57.739 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+22:28:00.721 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:28:01.128 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+22:28:01.868 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+22:28:01.876 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:28:02.149 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+22:30:51.235 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:30:52.135 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+22:30:52.870 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+22:30:52.875 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:30:53.140 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+22:34:40.313 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+22:37:26.761 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:08:37.390 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:40:33.919 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:40:33.950 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+00:40:34.272 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Link
+00:40:34.815 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered email
+00:40:34.886 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered password
+00:40:34.917 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Button
+00:44:08.238 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:44:08.271 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+00:44:08.562 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Link
+00:44:09.095 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered email
+00:44:09.149 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered password
+00:44:09.180 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Button
+00:48:46.846 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:48:46.891 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+00:48:47.214 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Link
+00:48:48.638 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered email
+00:48:48.711 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered password
+00:48:48.758 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Button
+00:48:50.123 [main] INFO  com.openCart.testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+00:52:24.203 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+00:52:24.934 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+00:52:25.936 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+00:52:25.940 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+00:52:26.172 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+00:56:26.380 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+00:56:26.820 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+00:56:27.433 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+00:56:27.438 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+00:56:27.520 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+00:56:27.563 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+00:56:27.612 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+00:56:27.648 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+00:56:27.681 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:08:43.171 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:08:44.043 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:08:44.633 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:08:44.638 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:08:44.718 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:08:44.754 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:08:44.801 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:08:44.848 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:08:44.880 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:13:18.829 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:13:19.894 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:13:20.513 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:13:20.517 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:13:20.590 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:13:20.628 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:13:20.676 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:13:20.715 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:13:20.750 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:16:48.652 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:16:49.510 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:16:52.084 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:16:52.089 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:16:52.169 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:16:52.204 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:16:52.252 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:16:54.319 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:16:56.378 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:18:29.947 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:18:30.300 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:18:32.977 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:18:32.982 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:18:33.061 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:18:33.104 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:18:33.155 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:18:35.214 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:18:37.254 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:21:59.809 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:22:00.158 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:22:03.159 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:22:03.173 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:22:03.223 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:22:03.254 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:22:03.300 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:22:05.342 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:22:07.393 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:27:37.795 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:27:38.327 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:27:41.229 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:27:41.238 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:27:41.303 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:27:41.334 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:27:41.386 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:27:43.441 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:27:45.527 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:29:31.184 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:29:31.664 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:29:34.328 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:29:34.336 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:29:34.403 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:29:34.439 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:29:34.490 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:29:36.551 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:29:38.582 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on SetPrivacyPolicy checkbox
+01:29:50.625 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:31:44.243 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:31:44.816 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:31:47.649 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:31:47.661 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:31:47.713 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:31:47.754 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:31:47.800 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:31:49.859 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:31:51.964 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+01:32:28.138 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+01:32:28.483 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+01:32:31.065 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+01:32:31.070 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+01:32:31.157 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+01:32:31.184 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+01:32:31.236 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+01:32:33.303 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+01:32:35.393 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+20:32:36.450 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+20:32:37.114 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:32:39.985 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+20:32:40.025 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:32:40.133 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+20:32:40.163 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+20:32:40.251 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+20:32:42.312 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+20:32:44.479 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+20:36:47.195 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+20:36:47.702 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:36:50.593 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+20:36:50.617 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:36:50.671 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+20:36:50.703 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+20:36:50.761 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+20:36:52.812 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+20:36:54.921 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+20:39:31.720 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+20:39:33.067 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:39:35.619 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+20:39:35.625 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Providing customer data
+20:39:35.765 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered FirstName
+20:39:35.810 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered LastName
+20:39:35.862 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Email
+20:39:37.932 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Entered Password
+20:39:40.012 [main] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+20:50:33.304 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:50:33.810 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+20:50:34.704 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Link
+20:50:34.810 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered email
+20:50:34.864 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered password
+20:50:35.113 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Button
+20:50:36.886 [main] INFO  com.openCart.testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:53:51.043 [main] INFO  com.openCart.testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+10:00:30.046 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:00:30.403 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+10:00:30.921 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Link
+10:00:31.006 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered email
+10:00:31.035 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered password
+10:00:31.294 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Button
+10:00:49.034 [main] INFO  com.openCart.testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+10:03:08.967 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:03:09.318 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+10:03:10.120 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Link
+10:03:10.193 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered email
+10:03:10.217 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Entered password
+10:03:10.820 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on Login Button
+10:03:28.684 [main] INFO  com.openCart.testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+15:56:20.042 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+15:56:24.030 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+16:00:49.257 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:07:07.193 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:07:34.437 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+10:43:24.767 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:43:25.188 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+16:04:04.518 [TestNG-tests-2] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+16:04:05.050 [TestNG-tests-2] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+16:04:18.234 [TestNG-tests-2] ERROR com.openCart.testCases.TC_001_AccountRegistrationTest - test failed
+16:23:07.853 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:23:08.534 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+16:24:03.223 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:24:03.616 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
+16:39:03.104 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:39:03.602 [main] INFO  com.openCart.testCases.TC_002_LoginTest - Clicked on MyAccount Link
